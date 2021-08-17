@@ -6,15 +6,6 @@
 * Checker was released at 08-17-2021 12:00 AM
 * QA review fully automated.
 
-##  Concepts
-
-* For this project, students are expected to look at these concepts:
-
-* Source code management
-* Git and Github cheat sheet - Everything in less than 30 seconds
-* The Framework
-* Approaching a Project
-
 ## Resources
 
 * Read or watch:
